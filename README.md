@@ -27,15 +27,9 @@ https://github.com/KaranAgraharee/Page-Pulse
 
 ---
 
-## Website Analysis
-
-![Website Analysis](screenshot/analysis_page.jpg)
-
----
-
 ## Analysis Report
 
-![Analysis Report](screenshot/Report.jpg)
+![Analysis Report](screenshot/report.jpg)
 
 ---
 
