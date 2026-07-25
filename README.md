@@ -10,12 +10,18 @@ This project was developed as part of the **Digital Heroes Software Development 
 
 ## 🌐 Live Demo
 
-**Application:**  
+**Application:** 
+
 https://page-pulse-mauve-kappa.vercel.app
 
 ## 📂 GitHub Repository
 
 https://github.com/KaranAgraharee/Page-Pulse
+
+---
+## 🎬 Loom Vedio
+
+https://www.loom.com/share/9f761c21c1c445fca0b2029d3c47d040
 
 ---
 
