@@ -29,7 +29,7 @@ https://github.com/KaranAgraharee/Page-Pulse
 
 ## Analysis Report
 
-![Analysis Report](screenshot/report.jpg)
+![Analysis Report](screenshot/Report.jpg)
 
 ---
 
